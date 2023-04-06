@@ -933,11 +933,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\Project-coed-main\\Project Final\\Project Final.csproj",
+      "projectUniqueName": "C:\\Users\\lenovo\\Documents\\GitHub\\Final_Project_2\\Project Final\\Project Final.csproj",
       "projectName": "Project Final",
-      "projectPath": "C:\\Users\\lenovo\\Desktop\\Project-coed-main\\Project Final\\Project Final.csproj",
+      "projectPath": "C:\\Users\\lenovo\\Documents\\GitHub\\Final_Project_2\\Project Final\\Project Final.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lenovo\\Desktop\\Project-coed-main\\Project Final\\obj\\",
+      "outputPath": "C:\\Users\\lenovo\\Documents\\GitHub\\Final_Project_2\\Project Final\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
